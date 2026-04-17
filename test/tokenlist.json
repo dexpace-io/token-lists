@@ -1,0 +1,39 @@
+{
+  "name": "DEXPACE Tokenlist",
+  "logoURI": "https://raw.githubusercontent.com/dexpace-io/token-lists/refs/heads/main/logos/dexpace.svg",
+  "keywords": [
+    "audited",
+    "verified",
+    "special tokens"
+  ],
+  "tags": {
+    "type": {
+      "name": "tokenlist",
+      "description": "Official test Dexpace token list"
+    }
+  },
+  "timestamp": "2026-04-16T00:00:00.000Z",
+  "tokens": [
+    {
+      "chainId": 32769,
+      "address": "0x91adf2c3350f968332dde6e72b18d887ccc57e38",
+      "symbol": "ST2",
+      "name": "STAGE 2 TOKEN",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/dexpace-io/token-lists/refs/heads/main/logos/ST2.svg"
+    },
+    {
+      "chainId": 32769,
+      "address": "0x11a482d7775de24f01decd5b05dce1689190cc85",
+      "symbol": "MN",
+      "name": "MNDEV3",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/dexpace-io/token-lists/refs/heads/main/logos/MN.svg"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
