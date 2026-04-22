@@ -16,6 +16,22 @@
   "tokens": [
     {
       "chainId": 32769,
+      "address": "0x7b25975e05f1E5Aeb3e85406f0663027D401c1ef",
+      "symbol": "DEX",
+      "name": "DEX TOKEN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexpace-io/token-lists/refs/heads/main/logos/DEX.svg"
+    },   
+    {
+      "chainId": 32769,
+      "address": "0xC6eb6244C8E549e874DF345C3E3e8a0F799B513D",
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/dexpace-io/token-lists/refs/heads/main/logos/USDT.svg"
+    },
+    {
+      "chainId": 32769,
       "address": "0x91adf2c3350f968332dde6e72b18d887ccc57e38",
       "symbol": "ST2",
       "name": "STAGE 2 TOKEN",
