@@ -24,6 +24,14 @@
     },   
     {
       "chainId": 32769,
+      "address": "0xbb7ed790abdadb64558ab8243d11962cd71946e5",
+      "symbol": "WDEX",
+      "name": "Wrapped DEX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexpace-io/token-lists/refs/heads/main/logos/DEX.svg"
+    }, 
+    {
+      "chainId": 32769,
       "address": "0xC6eb6244C8E549e874DF345C3E3e8a0F799B513D",
       "symbol": "USDT",
       "name": "Tether USD",
