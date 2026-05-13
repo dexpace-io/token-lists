@@ -12,13 +12,13 @@
       "description": "Official test Dexpace token list"
     }
   },
-  "timestamp": "2026-04-16T00:00:00.000Z",
+  "timestamp": "2026-05-13T14:00:00.000Z",
   "tokens": [
     {
       "chainId": 32769,
       "address": "0x7b25975e05f1E5Aeb3e85406f0663027D401c1ef",
       "symbol": "DEX",
-      "name": "DEX TOKEN",
+      "name": "DEX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/dexpace-io/token-lists/refs/heads/main/logos/DEX.svg"
     },   
@@ -51,13 +51,109 @@
       "address": "0xda6f10087F8Cc790b3D8394C07E4f72cA0b841A7",
       "symbol": "MN",
       "name": "MNDEV3",
-      "decimals": 6,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/dexpace-io/token-lists/refs/heads/main/logos/MN.svg"
+    },
+    {
+      "chainId": 32769,
+      "address": "0xF78E2353E411c680607ef37f5B1Ea9914BBe3293",
+      "symbol": "ART",
+      "name": "Art Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexpace-io/token-lists/refs/heads/main/logos/ART.jpg"
+    },
+    {
+      "chainId": 32769,
+      "address": "0x9a825c6cddE1d067B4DfEAf614b2b321C8FAaDC7",
+      "symbol": "ZAK",
+      "name": "Zak Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexpace-io/token-lists/refs/heads/main/logos/ZAK.avif"
+    },
+    {
+      "chainId": 32769,
+      "address": "0x3717Dfc1Cd62389B6eB243605a6ea64be3Fe20ef",
+      "symbol": "LINK",
+      "name": "Chainlink Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexpace-io/token-lists/refs/heads/main/logos/LINK.png"
+    },
+    {
+      "chainId": 32769,
+      "address": "0x54B758B07a47F93d0eD8A740F8b2e3bB02F3c427",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/dexpace-io/token-lists/refs/heads/main/logos/USDC.png"
+    },
+    {
+      "chainId": 32769,
+      "address": "0x46Bdd28e48Ecc408D3608d9F5Db802FF1283c22a",
+      "symbol": "DAI",
+      "name": "Dai Stablecoin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexpace-io/token-lists/refs/heads/main/logos/DAI.png"
+    },
+    {
+      "chainId": 32769,
+      "address": "0x7561d18AE90817094ca5dD6f505BAEb13C1d9af9",
+      "symbol": "MATIC",
+      "name": "Polygon",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexpace-io/token-lists/refs/heads/main/logos/MATIC.png"
+    },
+    {
+      "chainId": 32769,
+      "address": "0xeF0292A229F7Aca7b7d13fAe3aA6722A771Ef6B0",
+      "symbol": "MANA1",
+      "name": "Mana Token 1",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexpace-io/token-lists/refs/heads/main/logos/MANA1.png"
+    },
+    {
+      "chainId": 32769,
+      "address": "0x08d00b4e740Fad4EEb6160379f210C63835344f8",
+      "symbol": "MANA2",
+      "name": "Mana Token 2",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexpace-io/token-lists/refs/heads/main/logos/MANA2.png"
+    },
+    {
+      "chainId": 32769,
+      "address": "0x5f39AEeDbC98E9c66569Ce900A8D1D56254413b9",
+      "symbol": "MANA3",
+      "name": "Mana Token 3",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexpace-io/token-lists/refs/heads/main/logos/MANA3.png"
+    },
+    {
+      "chainId": 32769,
+      "address": "0xa46f7dfb676c68582ff9910305a61Ca0892Fbb01",
+      "symbol": "MANA4",
+      "name": "Mana Token 4",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexpace-io/token-lists/refs/heads/main/logos/MANA4.png"
+    },
+    {
+      "chainId": 32769,
+      "address": "0xBf447172731E45e7a8071ac4cf3Ec4026024C746",
+      "symbol": "MANA5",
+      "name": "Mana Token 5",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexpace-io/token-lists/refs/heads/main/logos/MANA5.png"
+    },
+    {
+      "chainId": 32769,
+      "address": "0x031cdc29273888A93d7A1CB291A72A5cb1D778f7",
+      "symbol": "MANA6",
+      "name": "Mana Token 6",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexpace-io/token-lists/refs/heads/main/logos/MANA6.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 5
   }
 }
